@@ -18,8 +18,5 @@
 # vendor/
 
 # Go workspace file
-go.work
+node_modules
 .env
-rsagg
-.vscode/
-node_modules/
